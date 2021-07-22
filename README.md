@@ -6,6 +6,9 @@ Right now I'm taking [CS classes at Hunter College](https://info.huntercs.org/).
 ## Intro to programming with Java
 
 ## Data structures
+Merge sort
+
+![Merge sort](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
 ## Methods
 For methods, I made [this website](https://cobrien-teach.github.io/nycscertweb/).
