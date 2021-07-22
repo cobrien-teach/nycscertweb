@@ -3,7 +3,7 @@ Hi, my name is Chris O'Brien.  During the school year I'm a math and computer sc
 
 Right now I'm taking [CS classes at Hunter College](https://info.huntercs.org/). Here's what I've been doing this summer:
 
-## Intro to programming
+## Intro to programming with Java
 
 ## Data structures
 
