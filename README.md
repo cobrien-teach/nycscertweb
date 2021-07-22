@@ -6,4 +6,4 @@ Hi, my name is Chris O'Brien.  I'm a math and computer science teacher at [Lehma
 ## Data structures
 
 ## Methods
-For methods, I made ![this website](https://cobrien-teach.github.io/nycscertweb/).
+For methods, I made [this website](https://cobrien-teach.github.io/nycscertweb/).
